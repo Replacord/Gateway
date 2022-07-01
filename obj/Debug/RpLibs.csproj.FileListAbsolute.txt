@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\RpLibs\bin\Debug\RpLibs.dll
+C:\Users\user\source\repos\RpLibs\bin\Debug\RpLibs.pdb
+C:\Users\user\source\repos\RpLibs\obj\Debug\RpLibs.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RpLibs\obj\Debug\RpLibs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RpLibs\obj\Debug\RpLibs.dll
+C:\Users\user\source\repos\RpLibs\obj\Debug\RpLibs.pdb
