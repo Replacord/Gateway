@@ -1,0 +1,52 @@
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord Gateway.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord Gateway.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord_Gateway.Properties.Resources.resources
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord Gateway.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord Gateway.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Replacord Gateway.exe.config
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Replacord Gateway.exe
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Replacord Gateway.pdb
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord Gateway.csproj.CopyComplete
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord Gateway.exe
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord Gateway.pdb
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord_Gateway.Form1.resources
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\EasyTabs.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Fizzler.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Svg.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.Dwmapi.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.Gdi32.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.Kernel32.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.User32.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.Uxtheme.dll
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\EasyTabs.xml
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Fizzler.pdb
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Svg.xml
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.Dwmapi.pdb
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.Gdi32.pdb
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.Gdi32.xml
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.Kernel32.pdb
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.User32.pdb
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Win32Interop.Uxtheme.pdb
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Replacord Gateway.exe.manifest
+C:\Users\user\source\repos\Replacord Gateway\bin\Debug\Replacord Gateway.application
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord Gateway.exe.manifest
+C:\Users\user\source\repos\Replacord Gateway\obj\Debug\Replacord Gateway.application
