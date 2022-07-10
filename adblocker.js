@@ -1,4 +1,12 @@
 // Official Gateway Ad Blocker
+
+let AdBlocker_Info = {
+
+    codeName:"Coffe",
+    ver:"1.4"
+    
+}
+
 for(let e=0;e<40;e++){
     lads=["sc-1i7jkv7-2","sc-1lqea4y-0"
     , "ytd-display-ad-renderer"
