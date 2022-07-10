@@ -1,7 +1,22 @@
-let GateName = "Gateway"
-let GateVersion = "2.0"
-let GateChannel = "Release"
+let Browser_Info = {
 
+    Name: "GateWay",
+    CodeName: "AppleSauce",
+    Version: "2.4",
+    Channel: "Release"
+    
+}
+
+let GateName = Browser_Info.Name
+let GateVersion = Browser_Info.Version
+let GateChannel = Browser_Info.Channel
+
+let AdBlocker_Info = {
+
+    codeName:"Banana",
+    ver:"1.4"
+    
+}
 
 
 function GetGateVar(key){
