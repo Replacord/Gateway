@@ -11,14 +11,28 @@ let GateName = Browser_Info.Name
 let GateVersion = Browser_Info.Version
 let GateChannel = Browser_Info.Channel
 
-let AdBlocker_Info = {
+let Api_Info = {
 
     Name:"Mr. Overflow",
-    codeName:"Banana",
-    ver:"1.4"
+    CodeName:"Banana",
+    Version:"1.4"
     
 }
 
+console.log(`
+
+Browser_Info
+Browser_Name ${GateName}
+Browser_Codename ${Browser_Info.CodeName}
+Browser_Version ${GateVersion}
+Browser_Channel ${GateChannel}
+
+API_Info
+API_NAME ${Api_Info.Name}
+API_CODENAME ${Api_Info.CodeName}
+API_VERSION ${Api_Info.Version}
+
+`)
 
 function GetGateVar(key){
 
