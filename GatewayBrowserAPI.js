@@ -13,6 +13,7 @@ let GateChannel = Browser_Info.Channel
 
 let AdBlocker_Info = {
 
+    Name:"Mr. Overflow",
     codeName:"Banana",
     ver:"1.4"
     
