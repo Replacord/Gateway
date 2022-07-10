@@ -4,9 +4,17 @@ let AdBlocker_Info = {
 
     Name: "No Ads here",
     codeName:"Coffe",
-    ver:"1.4"
+    Version:"1.4"
     
 }
+
+console.log(`
+
+AdBlocker_Info
+AdBlocker_Name ${AdBlocker_Info.Name}
+AdBlocker_Codename ${AdBlocker_Info.CodeName}
+AdBlocker_Version ${AdBlocker_Info.Version}
+
 
 for(let e=0;e<40;e++){
     lads=["sc-1i7jkv7-2","sc-1lqea4y-0"
