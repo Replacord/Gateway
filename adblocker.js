@@ -12,7 +12,7 @@ console.log(`
 
 AdBlocker_Info
 AdBlocker_Name ${AdBlocker_Info.Name}
-AdBlocker_Codename ${AdBlocker_Info.CodeName}
+AdBlocker_CodeName ${AdBlocker_Info.CodeName}
 AdBlocker_Version ${AdBlocker_Info.Version}
 `)
 
