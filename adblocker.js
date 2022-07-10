@@ -3,7 +3,7 @@
 let AdBlocker_Info = {
 
     Name: "No Ads here",
-    codeName:"Coffe",
+    CodeName:"Coffe",
     Version:"1.4"
     
 }
