@@ -15,7 +15,7 @@ let Api_Info = {
 
     Name:"Mr. Overflow",
     CodeName:"Banana",
-    Version:"1.4"
+    Version:"1.5"
     
 }
 
@@ -108,4 +108,12 @@ function sEvent(obj, evnt, func){
     obj.addEventListener(evnt, func)
 
 
+}
+
+function readFile(file)
+{
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", file, false);
+    xhr.send();
+    return xhr.response
 }
